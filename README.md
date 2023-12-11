@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fenrisulfr-noob
 - 👀 I’m interested in web development and game devlopment 
-- 🌱 I’m currently learning web development and pursuing BSc. IT (Mumbai University)
+- 🌱 I’m currently learning web development
+-     BSc. IT 
 - 💞️ I’m looking to learn web developement, game devlopment, and other facinating things about computers that i don't even know about.
 - 📫 to reach me LinkedIn :( https://www.linkedin.com/feed/ )
 
